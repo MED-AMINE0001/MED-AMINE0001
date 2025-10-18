@@ -23,14 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomUtilisateur&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 🔗 Me retrouver ailleurs
 - 📱 +212 601455512
