@@ -72,6 +72,8 @@ Science Physique mention bien 15/20
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MED-AMINE0001&layout=compact&theme=radical)
 
+![C Usage](https://img.shields.io/badge/C%20Usage-12.3%25-blue?style=flat-square)
+
 ---
 
 ### 📫 Connect With Me
