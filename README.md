@@ -1,72 +1,43 @@
-# Salut 👋, je suis Mohamed Amine Kamali
+<h1 align="center">Salut 👋, Bonjour ,je suis  Mohamed AMINE KAMALI</h1>
+<h3 align="center">Étudiant en informatique appliquée | Passionné de développement web</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER) 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/) 
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-## 🚀 À propos de moi
-Je suis *étudiant en Informatique Appliquée* / développeur full-stack en formation. J'aime construire des projets pratiques, apprendre la sécurité informatique et monter en compétences chaque jour.  
-Objectifs actuels : *voyager et étudier en Europe*, devenir développeur / ingénieur en cybersécurité, et progresser sur mes skills.
-
-- 🎓 Année : 2ème — Licence Informatique Appliquée (Université)
-- ⚡ Intérêts : Full-stack, Sécurité, Python, Html and Css ,C, Algorithms, 
-- 💪 Projet perso : Glow Up — plan fitness / nutrition / productivité 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+profil+GitHub!;Développeur+Web+en+devenir;Toujours+curieux+et+créatif" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧰 Tech & Tools
-*Langages :*  
-Python · C · JavaScript · HTML · CSS · 
-
-*Frameworks / Outils :*  
-React · Git  · Linux
-
-*Autres :*  
-GitHub · VS Code 
+### 🚀 À propos de moi
+- 🎓 Étudiant en 2e année à la FS Ben M’Sik, filière *Informatique Appliquée*
+- 🧠 J’apprends actuellement *React.js, **Node.js, et l’animation web*
+- 🛠️ Je travaille sur des projets avec *HTML/CSS, **JavaScript, **Python, et **C*
+- 🌱 Objectif actuel : maîtriser les *interfaces animées* et l’*authentification web*
 
 ---
 
-## 📂 Projets sélectionnés
-> Remplace les descriptions par celles de tes projets et ajoute les liens.
+### 🧰 Langages & Outils
 
-### [Nom-du-projet-1](https://github.com/YOUR-USERNAME/nom-du-projet-1)
-- Petite description : ce que fait le projet, techs utilisées, résultat.
-- Points forts : authentification, API REST, responsive.
-
-### [Nom-du-projet-2](https://github.com/YOUR-USERNAME/nom-du-projet-2)
-- Petite description : site portfolio / outil / bot / script utile.
-- Techs : Python, Flask, SQLite.
-
-### Portfolio 
- — plan fitness + nutrition —personale website (portfolio)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,figma,vscode,github" />
+</p>
 
 ---
 
-## 📈 Statistiques GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+### 📊 GitHub Stats
 
-> Si tu veux un style différent, change theme= (ex: dark, solarized-light, tokyonight).
-
----
-
-## 🏆 Badges & Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=onedark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomUtilisateur&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 📅 Mon workflow
-- Étude quotidienne : algorithms + pratique (Git + petits projets)
-- 4 heures / semaine : sécurité / CTF (pwn, web)
-- Objectif court terme : finir un projet full-stack déployé
+### 🔗 Me retrouver ailleurs
+- 📱 +212 601455512
+- 📫 Email : kamalimohammedamine14@gmail.com
 
 ---
 
-## ✉️ Contact
-- Email : your.email@example.com  
-- LinkedIn : https://www.linkedin.com/in/YOUR_LINKEDIN/  
-- Instagram : https://instagram.com/YOUR_INSTAGRAM (si tu veux partager)
-
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TonNomUtilisateur&theme=onedark" />
+</p>
