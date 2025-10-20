@@ -51,8 +51,6 @@ Passionate Full Stack Developer with expertise in modern web technologies. I lov
 
 ### 🎓 Education & Experience
 
-
-
 **Baccalauréat** | lycée Atlas
 *2022 - 2023*  
 Science Physique mention bien 15/20
