@@ -1,7 +1,7 @@
 # Hi there, I'm Kamali Mohamed Amine 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+profil+GitHub!;Développeur+Web+en+devenir;Toujours+curieux+et+créatif" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+profil+GitHub!;Full+Stack+Développeur+en+devenir;Toujours+curieux+et+créatif" alt="Typing SVG" />
 </p>
 
 
