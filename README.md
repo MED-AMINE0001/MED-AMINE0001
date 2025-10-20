@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+profil+GitHub!;Full+Stack+Développeur+en+devenir;Toujours+curieux+et+créatif" alt="Typing SVG" />
 </p>
 
-
 ## 🚀 Full Stack Developer
 
 Building intelligent, scalable, and beautiful digital experiences.
@@ -18,7 +17,7 @@ Passionate Full Stack Developer with expertise in modern web technologies. I lov
 - 🌍 Based in **Sidi Bernoussi, Casablanca**
 - 💼 Currently working as a **Full Stack Developer**
 - 📫 Reach me at: **kamalimohammedamine14@gmail.com**
-- 📱 Phone: ** +212 60 14 55 512 **
+- 📱 Phone: **+212 60 14 55 512**
 
 ---
 
@@ -29,6 +28,8 @@ Passionate Full Stack Developer with expertise in modern web technologies. I lov
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C Usage](https://img.shields.io/badge/C%20Usage-12.3%25-blue?style=flat-square)
 
 #### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -51,7 +52,7 @@ Passionate Full Stack Developer with expertise in modern web technologies. I lov
 
 ### 🎓 Education & Experience
 
-**Baccalauréat** | lycée Atlas
+**Baccalauréat** | Lycée Atlas  
 *2022 - 2023*  
 Science Physique mention bien 15/20
 
@@ -75,7 +76,7 @@ Science Physique mention bien 15/20
 
 ### 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kamalimohammedamine14@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kamalimohammedamine14@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MED-AMINE0001)
 
 ---
