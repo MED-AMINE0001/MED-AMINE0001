@@ -17,7 +17,7 @@ Passionate Full Stack Developer with expertise in modern web technologies. I lov
 - 🌍 Based in **Sidi Bernoussi, Casablanca**
 - 💼 Currently working as a **Full Stack Developer**
 - 📫 Reach me at: **kamalimohammedamine14@gmail.com**
-- 📱 Phone: **+212 60 14 55 512**
+- 📱 Phone: **+212 6 01 45 55 12**
 
 ---
 
@@ -46,7 +46,8 @@ Passionate Full Stack Developer with expertise in modern web technologies. I lov
 #### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=flat-square&logo=codeblocks&logoColor=white)
+![LARP](https://img.shields.io/badge/-LARP-6A1B9A?style=flat-square&logo=code&logoColor=white)
 
 ---
 
