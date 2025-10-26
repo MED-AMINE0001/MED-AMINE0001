@@ -82,5 +82,7 @@ Science Physique mention bien 15/20
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MED-AMINE0001)
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=MED-AMINE0001&color=blue)
+
 
 ⭐️ From [MED-AMINE0001](https://github.com/MED-AMINE0001)
