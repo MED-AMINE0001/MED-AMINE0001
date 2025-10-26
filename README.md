@@ -80,6 +80,8 @@ Science Physique mention bien 15/20
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kamalimohammedamine14@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MED-AMINE0001)
+[![Téléphone](https://img.shields.io/badge/-Téléphone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+212601455512)
+
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=MED-AMINE0001&color=blue)
