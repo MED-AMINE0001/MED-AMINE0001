@@ -77,6 +77,13 @@ Science Physique mention bien 15/20
 
 ---
 
+![Modern-Portfolio-website](https://img.shields.io/badge/Modern--Portfolio--website-B%2B-blue)
+![Portfolio-Showcase](https://img.shields.io/badge/Portfolio--Showcase-B-blue)
+![Sabo](https://img.shields.io/badge/Sabo-B%2B-yellow)
+![Portfolio3](https://img.shields.io/badge/Portfolio3-A-brightgreen)
+
+---
+
 ### 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kamalimohammedamine14@gmail.com)  
